@@ -31,7 +31,7 @@
 ## Screenshoots
 
  <p align="center">
-[Alt Design](https://drive.google.com/file/d/1gn-akWm86dCcz8faVtruXF8W62Eiay2A/view?usp=drive_link)
+<a href=(https://drive.google.com/file/d/1gn-akWm86dCcz8faVtruXF8W62Eiay2A/view?usp=drive_link)
 <br><br>
 <a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
 <br><br>
