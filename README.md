@@ -31,7 +31,7 @@
 ## Screenshoots
 
  <p align="center">
-<a href="https://ibb.co/Gp9q8s9"><img src="[https://i.ibb.co/sRCZN5C/keranjang.png](https://drive.google.com/file/d/1gn-akWm86dCcz8faVtruXF8W62Eiay2A/view?usp=drive_link)" alt="designer" border="0"></a>
+<a href="https://drive.google.com/file/d/1gn-akWm86dCcz8faVtruXF8W62Eiay2A/view?usp=drive_link" alt="designer" border="0"></a>
 <br><br>
 <a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
 <br><br>
