@@ -33,7 +33,7 @@
 ![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Designer%20phpmyadmin.jpeg?raw=true)
 #Designer
 
-![alt text](https://drive.google.com/file/d/1fl9NyJFQV9PxOsBU_BZBp_IPP9Y8cFBN/view?usp=drive_link?raw=true)
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Dashboard.jpeg?raw=true)
 #Dashboard
 
 
