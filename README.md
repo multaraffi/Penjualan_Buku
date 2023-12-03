@@ -66,10 +66,7 @@
 ![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Logout.jpeg?raw=true)
 #Logout
 
-<br><br>
-<a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
-<br><br>
-<a href="https://ibb.co/JdWcT7Z"><img src="https://i.ibb.co/z5WmgRd/kas.png" alt="kas" border="0"></a>
+
 
 </p>
 
