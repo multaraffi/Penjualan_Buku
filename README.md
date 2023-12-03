@@ -1,4 +1,4 @@
-# Penjualan Laravel
+# Penjualan Buku
 <br>
  <p align="center">
  <a href="https://ibb.co/wLtMZXx"><img src="https://i.ibb.co/3sKB5qL/dashboard.png" alt="dashboard" border="0"></a>
@@ -24,7 +24,7 @@
 
 ## Framework
 
-- Laravel
+- Raffi
 
 
 
