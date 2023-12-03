@@ -30,7 +30,6 @@
 
 ## Screenshoots
 
- <p align="center">
 ![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Designer%20phpmyadmin.jpeg?raw=true)
 <br><br>
 <a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
