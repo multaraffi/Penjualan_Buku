@@ -36,6 +36,35 @@
 ![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Dashboard.jpeg?raw=true)
 #Dashboard
 
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/List%20Anggota.jpeg?raw=true)
+#List_Anggota
+
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Top%20Kontribusi.jpeg?raw=true)
+#Top_Kontribusi
+
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Penjualan.jpeg?raw=true)
+#Penjualan
+
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Traffics.jpeg?raw=true)
+#Traffics
+
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Profil.jpeg?raw=true)
+#Profil
+
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Produk.jpeg?raw=true)
+#Produk
+
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Profil%20Perusahaan.jpeg?raw=true)
+#Profil_Perusahaan
+
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Kas.jpeg?raw=true)
+#Kas
+
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Credit.jpeg?raw=true)
+#Credit
+
+![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Logout.jpeg?raw=true)
+#Logout
 
 <br><br>
 <a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
