@@ -31,6 +31,12 @@
 ## Screenshoots
 
 ![alt text](https://github.com/multaraffi/penjualan_buku/blob/main/Screenshoot%20sia/Designer%20phpmyadmin.jpeg?raw=true)
+#Designer
+
+![alt text](https://drive.google.com/file/d/1fl9NyJFQV9PxOsBU_BZBp_IPP9Y8cFBN/view?usp=drive_link)
+#Dashboard
+
+
 <br><br>
 <a href="https://ibb.co/XF4jRGt"><img src="https://i.ibb.co/YfWPsVh/checkout.png" alt="checkout" border="0"></a>
 <br><br>
